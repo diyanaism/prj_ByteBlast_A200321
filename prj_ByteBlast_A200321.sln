@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prj_ByteBlast_A200321", "prj_ByteBlast_A200321\prj_ByteBlast_A200321.vbproj", "{E0FDBA3B-109A-4021-95E1-CAEEDC3650A9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_ByteBlastShop_A200321", "Setup_ByteBlastShop_A200321\Setup_ByteBlastShop_A200321.vdproj", "{E2EA1BDE-7F35-43ED-8B97-056A6B9675E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0FDBA3B-109A-4021-95E1-CAEEDC3650A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FDBA3B-109A-4021-95E1-CAEEDC3650A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0FDBA3B-109A-4021-95E1-CAEEDC3650A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FDBA3B-109A-4021-95E1-CAEEDC3650A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2EA1BDE-7F35-43ED-8B97-056A6B9675E8}.Debug|Any CPU.ActiveCfg = Debug
+		{E2EA1BDE-7F35-43ED-8B97-056A6B9675E8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE1A4E0D-88FC-47D2-8F89-7F1598DFFFF3}
+	EndGlobalSection
+EndGlobal
